@@ -1,0 +1,34 @@
+name: CI/CD for Development Branch
+
+on:
+  push:
+    branches:
+      - development
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build React app for development
+        run: npm run build
+
+      - name: Create zip file for development
+        run: zip -r stg.hasntube.zip build/*
+
+      - name: Transfer zip file to cPanel for development
+        uses: appleboy/scp-action@master
+        with:
+          host: 45.14.135.222
+          username: hasnitub
+          password: ${{ secrets.CPANEL_PASSWORD }}
+          source: stg.hasntube.zip
+          target: /public_html/staging
+
+      - name: Clean up
+        run: rm stg.hasntube.zip
