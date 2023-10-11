@@ -10,13 +10,13 @@
    <a href="hhttps://www.linkedin.com/in/syedalinaqihasni" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </p>
 
-- 🔭 I’m currently working on [Shopify Apps @RoyalApps](https://www.royal-apps.io/)
+- 🔭 I’m currently working on [Web Developer @eSpark-Consultants](https://esparkconsultants.com/)
 
-- 🌱 I’m currently learning **Advance ReactJS Concepts**
+- 🌱 I’m currently learning **Advance React JS Concepts**
 
-- 👯 I’m looking to collaborate on **New ReactJs & WordPress Projects**
+- 👯 I’m looking to collaborate on **New React Js & WordPress Projects**
 
-- 🤝 I’m looking for help with **Learning Flutter Development**
+- 🤝 I’m looking for help with **Learning Flutter Development** 
 
 - 👨‍💻 All of my projects are available at [@SyedAliNaiqHasni](@SyedAliNaiqHasni)
 
