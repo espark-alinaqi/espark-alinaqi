@@ -49,6 +49,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedalinaqihasni" alt="syedalinaqihasni" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedalinaqihasni&show_icons=true&locale=en&layout=compact" alt="syedalinaqihasni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true&locale=en" alt="syedalinaqihasni" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=syedalinaqihasni&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="syedalinaqihasni" /></p>
+
+<p>&nbsp;<img align="center" style="margin-top:15px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syedalinaqihasni&show_icons=true&locale=en&count_private=true&theme=radical" alt="syedalinaqihasni" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni&theme=merko" alt="syedalinaqihasni" /></p>
