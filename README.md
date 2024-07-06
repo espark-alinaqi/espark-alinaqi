@@ -31,3 +31,12 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/syedalinaqihasni/](https://www.linkedin.com/in/syedalinaqihasni/)
 
 - ⚡ Favorite Quote **I Think, therefore I am.**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=espark-alinaqi&show_icons=true&locale=en&layout=compact" alt="syedalinaqihasni" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=espark-alinaqi&show_icons=true&locale=en" alt="syedalinaqihasni" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=espark-alinaqi&" alt="syedalinaqihasni" /></p>
+
+
